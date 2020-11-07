@@ -2,7 +2,7 @@ Pacman Simulator - Coding Challenge for ie
 
 # commands to navigate pacman
 
-PLACE X,Y,F (Place pacman on grid where X and Y denotes coordinates and F denotes direction facting)
+PLACE X,Y,F (Place pacman on grid where X and Y denotes coordinates and F denotes direction facting)<br /
 MOVE (Move pacman one step in the direction it is facing)
 LEFT (Rotate left)
 RIGHT (Rotate right)
