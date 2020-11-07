@@ -1,4 +1,6 @@
-Pacman Simulator - Coding Challenge for ie
+# Pacman Simulator - Coding Challenge for ie
+
+Pacman simulator is a program that lets you navigate the pacman within the 5 x 5 size of grid. 
 
 # commands to navigate pacman
 
